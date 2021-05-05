@@ -3,7 +3,7 @@ name: "Cody Perakslis"
 nickname: "Cody"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/cody.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "codyperakslis@gmail.com"
@@ -13,6 +13,8 @@ contactInfo:
 summary:
   - I am a Developer
   - I work with cloud technology
+  - I write words and code
+  - I explore new technologies
   # - I am a Devops
   # - I love servers
   # - I work on open-source projects
